@@ -120,9 +120,7 @@
     @apply container m-auto px-4 pb-32 xl:px-32 text-base md:text-md selection:bg-violet-300;
 } */
 ul {
-    /* list-style-type: disc; */
-    padding-inline-start: 2rem;
-    @apply marker:text-violet-300 list-disc;
+    @apply ps-4 md:ps-5 marker:text-violet-300 list-disc;
 }
 
 hr {

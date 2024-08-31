@@ -37,7 +37,6 @@ h3 {
 }
 
 details ul {
-    padding-inline-start: 2rem;
-    @apply marker:text-violet-300 list-disc;
+    @apply ps-4 md:ps-5 my-4 marker:text-violet-300 list-disc;
 }
 </style>
