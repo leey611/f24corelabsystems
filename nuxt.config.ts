@@ -8,5 +8,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxt/content', '@nuxtjs/tailwindcss']
+  modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
+  app: {
+    baseURL: process.env.NUXT_APP_BASE_URL || '/'
+  }
+  
 })
