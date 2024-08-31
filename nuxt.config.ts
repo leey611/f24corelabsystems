@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   },
   modules: ['@nuxt/content', '@nuxtjs/tailwindcss'],
   app: {
-    baseURL: process.env.NUXT_APP_BASE_URL || '/'
+    baseURL: '/f24corelabsystems/'
   }
   
 })
