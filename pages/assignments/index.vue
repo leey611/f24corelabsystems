@@ -23,7 +23,11 @@
        
     <!-- </main> -->
 </template>
-
+<script setup>
+useHead({
+  title: 'Assignments',
+})
+</script>
 <style scoped>
 h1 {
     @apply my-4;

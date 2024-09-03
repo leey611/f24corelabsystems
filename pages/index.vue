@@ -22,6 +22,17 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 2</summary>
+                <h4>Wednesday, September 04</h4>
+                <ul>
+                    
+                </ul>
+
+                <h4 class="line-through">Monday, September 02</h4>
+                <p>No class</p>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 1</summary>
                 <h4>Wednesday, August 28</h4>
                 <ul>
@@ -113,6 +124,12 @@
 </template>
 
 <script setup>
+useSeoMeta({
+  title: 'F24 Core Lab Systems',
+  ogTitle: 'F24 Core Lab Systems',
+  description: 'Welcome to Core Lab Systems',
+  ogDescription: 'Welcome to Core Lab Systems',
+})
 </script>
 
 <style scoped>
