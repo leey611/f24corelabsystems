@@ -27,7 +27,7 @@
                 <ul>
                     <li>Environment setup</li>
                     <li>HTML: <code>head</code>, <code>meta</code>, and <code>body</code></li>
-                    <li>HTML/CSS Review: navbar, card, carousel (<a href="/html-css-review.zip" target="_blank" download="html-css-review.zip">html-css-review.zip</a>)</li>
+                    <li>HTML/CSS Review: navbar, card, carousel (<a href="/html-css-review.zip"  download="html-css-review.zip">html-css-review.zip</a>)</li>
                 </ul>
                 <p><NuxtLink to="/assignments#a2-1">Assignment 2.1 DOM</NuxtLink> due 09/09</p>
                 <h4 class="line-through">Monday, September 02</h4>
