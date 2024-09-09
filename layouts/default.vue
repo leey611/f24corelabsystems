@@ -18,4 +18,8 @@ import { NuxtLink } from '#build/components';
 a {
     @apply text-violet-300 bg-black hover:text-white;
 }
+
+hr {
+    @apply my-10;
+}
 </style>

@@ -25,9 +25,11 @@
                 <summary>Week 2</summary>
                 <h4>Wednesday, September 04</h4>
                 <ul>
-                    
+                    <li>Environment setup</li>
+                    <li>HTML: <code>head</code>, <code>meta</code>, and <code>body</code></li>
+                    <li>HTML/CSS Review: navbar, card, carousel (<a href="/files/html-css-review.zip" target="_blank" download>html-css-review.zip</a>)</li>
                 </ul>
-
+                <p><NuxtLink to="/assignments#a2-1">Assignment 2.1 DOM</NuxtLink> due 09/09</p>
                 <h4 class="line-through">Monday, September 02</h4>
                 <p>No class</p>
             </details>
@@ -140,10 +142,6 @@ ul {
     @apply ps-5 marker:text-violet-300 list-disc;
 }
 
-hr {
-    @apply my-10;
-}
-
 section h2 {
     @apply font-bold my-4;
 }
@@ -162,5 +160,9 @@ em {
     @apply bg-violet-300 not-italic;
     /* font-style: normal;
     background-color: aqua; */
+}
+
+code {
+    @apply rounded px-2 text-base text-white bg-violet-600;
 }
 </style>
