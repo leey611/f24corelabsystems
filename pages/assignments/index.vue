@@ -5,6 +5,13 @@
         <hr>
         <ul>
             <li>
+                <details id="a2-2">
+                    <summary><h2>Website: 2.2 Static Website</h2></summary>
+                    <p>Make a website that serve as an index/portfolio page for your Studio projects. submit your website as a github page link</p>
+                </details>
+            </li>
+            <hr>
+            <li>
                 <details id="a2-1">
                     <summary><h2>Exercise: 2.1 DOM</h2></summary>
                     <h3>Recreate an element with HTML/CSS (JavaScript is optional)</h3>

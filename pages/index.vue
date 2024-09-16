@@ -22,6 +22,25 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 3</summary>
+                <h4>Wednesday, September 11</h4>
+                <ul>
+                    <li>JavaScript: document object model (DOM)</li>
+                    <li>JavaScript: data, function, if/else, loop</li>
+                    <li>JavaScript: fetch and promise</li>
+                </ul>
+                <h4>Monday, September 09</h4>
+                <ul>
+                    <li>CSS: units and fluid typography</li>
+                    <li>CSS layout: flexbox and grid</li>
+                    <li>CSS: selectors</li>
+                    <li>CSS: position</li>
+                    <li>CSS: transition and animation</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a2-2">2.2 Static Website</NuxtLink> due 09/16</p>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 2</summary>
                 <h4>Wednesday, September 04</h4>
                 <ul>
