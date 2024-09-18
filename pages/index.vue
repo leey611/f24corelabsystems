@@ -14,6 +14,7 @@
             <p><a href="https://docs.google.com/document/d/1R2WrzzcLkHT1gNxpn6yAvRzuE8KcFVH9rFr6BMdytaE/edit?usp=sharing" target="_blank">Syllabus</a></p>
             <p><NuxtLink to="/assignments">Assignments</NuxtLink></p>
             <p><a href="#resources">Resources</a></p>
+            <p><NuxtLink to="/community_agreements">Community Agreements</NuxtLink></p>
             <h2 class="my-4 font-bold">Course Description</h2>
             <p>This course provides production and coding skills for projects involved in Core Studio: DT3 - Systems. Students will expand their understanding of acquiring and processing data sets. They will learn about form, function and techniques for developing virtual and physical networked systems, interactive environments, objects and processes.
             </p>
