@@ -28,7 +28,7 @@
 
     <h2>⭐️ How can we as a group make others feel brave (as in brave space!) and supported?</h2>
     <ul>
-        <!-- write yours here using <li> -->
+         <li>Tell your classmate loudly what you like about their work, and applaud loudly after their presentation. 👏</li>
     </ul>
 
     <h2>⭐️ What do you <em>need</em> to be successful (on your own terms)?</h2>
