@@ -8,17 +8,24 @@
         <h2>⭐️ What core words would you like to associate with your community?</h2>
     <ul>
         <li> passionate, open-minded, collaborative, &amp engaged </li>
+        <!-- write yours here using <li> -->
+        <li>Safe Space</li>
     </ul>
 
     <h2>⭐️ What behaviors do you want to encourage? What do you want to discourage?</h2>
     <h3>Encourage</h3>
     <ul>
         <!-- write yours here using <li> -->
+        <li>Providing constructive feedback</li>
+        <li>Sharing helpful resources</li>
+        <li>Giving each other artist/artwork references if we think it resonates with their work</li>
+
     </ul>
 
     <h3>Discourage</h3>
     <ul>
         <!-- write yours here using <li> -->
+
     </ul>
 
     <h2>⭐️ Are there consequences for violating the code? If so, what are they? Are there ways we want to recognize accomplishments or other kinds of positivity in the space? If so, how?</h2>
@@ -28,7 +35,12 @@
 
     <h2>⭐️ How can we as a group make others feel brave (as in brave space!) and supported?</h2>
     <ul>
-         <li>Tell your classmate loudly what you like about their work, and applaud loudly after their presentation. 👏</li>
+
+        <!-- write yours here using <li> -->
+        <li>Keeping it a non judgemental space</li>
+        <li>Making sure if someone shares something it stays withing the space</li>
+
+        <li>Tell your classmate loudly what you like about their work, and applaud loudly after their presentation. 👏</li>
     </ul>
 
     <h2>⭐️ What do you <em>need</em> to be successful (on your own terms)?</h2>
