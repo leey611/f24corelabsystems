@@ -7,6 +7,7 @@
         <p><em>Note: The below is modified from <a href="https://mozillascience.github.io/working-open-workshop/code_of_conduct/" target="_blank">this Mozilla workshop</a> and Assistant Professor of Interaction and Media Design <a href="https://www.notion.so/2df011ac6f4842ac91480c907417bcd5?pvs=21" target="_blank">Xin Xin</a>.</em></p>
         <h2>⭐️ What core words would you like to associate with your community?</h2>
     <ul>
+        <li> passionate, open-minded, collaborative, &amp engaged </li>
         <!-- write yours here using <li> -->
         <li>Safe Space</li>
     </ul>
