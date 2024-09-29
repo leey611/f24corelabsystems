@@ -14,6 +14,7 @@
             <p><a href="https://docs.google.com/document/d/1R2WrzzcLkHT1gNxpn6yAvRzuE8KcFVH9rFr6BMdytaE/edit?usp=sharing" target="_blank">Syllabus</a></p>
             <p><NuxtLink to="/assignments">Assignments</NuxtLink></p>
             <p><a href="#resources">Resources</a></p>
+            <p><a href="#students">Students</a></p>
             <p><NuxtLink to="/community_agreements">Community Agreements</NuxtLink></p>
             <h2 class="my-4 font-bold">Course Description</h2>
             <p>This course provides production and coding skills for projects involved in Core Studio: DT3 - Systems. Students will expand their understanding of acquiring and processing data sets. They will learn about form, function and techniques for developing virtual and physical networked systems, interactive environments, objects and processes.
@@ -141,6 +142,28 @@
                 </section>
                 
             </div>
+        </section>
+        <hr>
+        <section id="students" class="students">
+            <h2>Students</h2>
+            <ul>
+                <li><a href="https://jackji13.github.io/2024LAB/" target="_blank">Jack Ji</a></li>
+                <li><a href="https://rishikaam.github.io/Portfolio/new.html" target="_blank">Rishikaa Modi</a></li>
+                <li><a href="https://jiazhenluo.github.io/coreLab24fall/" target="_blank">Jiazhen Luo</a></li>
+                <li><a href="https://xichelle.github.io/2024Fall-Core-lab/" target="_blank">Xiaoyue Xing(Michelle)</a></li>
+                <li><a href="https://borlingball15.github.io/portfolio/" target="_blank">Ananya Borle</a></li>
+                <li><a href="https://divijadiwan.github.io/corelab/" target="_blank">Divija Diwan</a></li>
+                <li><a href="#students">Enkhjin Erdenebat</a></li>
+                <li><a href="https://kwoncena.github.io/CARA-KWON-PORTFOLIO/fall2024/fall2024.html" target="_blank">Cara Kwon</a></li>
+                <li><a href="https://sevenjaiden.github.io/core_systems_port/" target="_blank">Jaiden Brown</a></li>
+                <li><a href="https://sydneywill.github.io/systemsPortfolio_fa24/" target="_blank">Sydney Williams</a></li>
+                <li><a href="https://maddieli28.github.io/lab_portfolio/" target="_blank">Maddie Li</a></li>
+                <li><a href="https://guapstarlik.github.io/Systems/2_2/" target="_blank">Malik Jones</a></li>
+                <li><a href="https://sukyoungyoun.github.io/Static-Website/" target="_blank">Su-Kyoung Youn</a></li>
+                <li><a href="#students">Andrew Deng</a></li>
+                <li><a href="https://lsyokoo.github.io/portfoliosite/" target="_blank">Siyu Liu</a></li>
+
+            </ul>
         </section>
     <!-- </div> -->
 </template>
