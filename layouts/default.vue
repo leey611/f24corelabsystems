@@ -19,6 +19,10 @@ a {
     @apply text-violet-300 bg-black hover:text-white;
 }
 
+code {
+    @apply rounded px-2 text-base text-white bg-violet-600;
+}
+
 hr {
     @apply my-10;
 }

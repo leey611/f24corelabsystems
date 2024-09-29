@@ -24,6 +24,38 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 5</summary>
+                <h4>Wednesday, September 25</h4>
+                <ul>
+                    <li>JavaScript: breakpoints and debugger</li>
+                    <li>Documentation: markdown(.md) files</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a3-4">3.4 Debugger and Documentation</NuxtLink> due 09/23</p>
+                <h4>Monday, September 23</h4>
+                <ul>
+                    <li>JavaScript: JavaScript Runtime</li>
+                    <li>JavaScript: Object-Oriented Programming</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a3-3">3.3 JavaScript Class and Object</NuxtLink> due 09/18</p>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 4</summary>
+                <h4>Wednesday, September 18</h4>
+                <ul>
+                    <li>Git, Github, and Version Controls</li>
+                    <li>Workshop: working with Git</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a3-2">3.2 Open Source and Contribution</NuxtLink> due 09/23</p>
+                <h4>Monday, September 16</h4>
+                <ul>
+                    <li>Command Line Interface (CLI)</li>
+                    <li>JavaScript: Data Types and JSON</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a3-1">3.1 File-Made Structure</NuxtLink> due 09/18</p>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 3</summary>
                 <h4>Wednesday, September 11</h4>
                 <ul>
@@ -205,7 +237,4 @@ em {
     background-color: aqua; */
 }
 
-code {
-    @apply rounded px-2 text-base text-white bg-violet-600;
-}
 </style>
