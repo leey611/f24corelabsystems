@@ -24,19 +24,50 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 7</summary>
+                <h4>Wednesday, October 09</h4>
+                <ul>
+                    <li>JavaScript: updating elements in D3.js</li>
+                    <li>JavaScript: D3 scale, axis, margin</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a5-2">5.2 Data Visualization</NuxtLink> due 10/09</p>
+                <h4>Monday, October 07</h4>
+                <ul>
+                    <li>Data visualization on the web</li>
+                    <li>JavaScript: intro to D3.js</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a5-1">5.1 SVG Drawing</NuxtLink> due 10/14</p>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 6</summary>
+                <h4>Wednesday, October 02</h4>
+                <ul>
+                    <li>JavaScript: animating with GSAP</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a4-2">4.2 Interactive Website</NuxtLink> due 10/09</p>
+                <h4>Monday, September 30</h4>
+                <ul>
+                    <li>JavaScript: event listeners</li>
+                    <li>Exercise: <code>mousemove</code>, <code>input</code></li>
+                </ul>
+                <p><NuxtLink to="/assignments#a4-1">4.1 Dynamic Web Page</NuxtLink> due 10/07</p>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 5</summary>
                 <h4>Wednesday, September 25</h4>
                 <ul>
                     <li>JavaScript: breakpoints and debugger</li>
                     <li>Documentation: markdown(.md) files</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-4">3.4 Debugger and Documentation</NuxtLink> due 09/23</p>
+                <p><NuxtLink to="/assignments#a3-4">3.4 Debugger and Documentation</NuxtLink> due 09/30</p>
                 <h4>Monday, September 23</h4>
                 <ul>
                     <li>JavaScript: JavaScript Runtime</li>
                     <li>JavaScript: Object-Oriented Programming</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-3">3.3 JavaScript Class and Object</NuxtLink> due 09/18</p>
+                <p><NuxtLink to="/assignments#a3-3">3.3 JavaScript Class and Object</NuxtLink> due 09/25</p>
             </details>
             <hr>
             <details class="week">

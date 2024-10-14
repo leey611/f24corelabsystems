@@ -5,6 +5,111 @@
         <hr>
         <ul>
             <li>
+                <details id="a5-2">
+                    <summary><h2>Website: 5.2 Data Visualization</h2></summary>
+                    <p>Create a data visualization website with D3.js, HTML, CSS, and JavaScript. You are encouraged to:</p>
+                    <ul>
+                        <li>Leverage D3 functions, examples, and resources</li>
+                        <li>Pick a dataset/API you find interesting, or create your own</li>
+                        <li>Write any insights or stories you would like to share on your site</li>
+                        <li>Add interactivity to your chart, such as showing tooltips with mouseover, updating charts with clicks</li>
+                        <li>Play around with transitions and animations</li>
+                    </ul>
+    
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="https://d3-graph-gallery.com/" target="_blank">D3 Graph Gallery</a> (good starter if you don't know what to make!)</li>
+                        <li><a href="https://d3-graph-gallery.com/intro_d3js.html" target="_blank">An introduction to d3.js in 10 basic examples.</a></li>
+                        <li><a href="https://info474-s17.github.io/book/introduction-to-d3-js.html" target="_blank">Introduction to D3.js</a> by Michael Freeman</li>
+                        <li><a href="https://www.d3indepth.com/" target="_blank">D3 in Depth</a></li>
+                        <li><a href="https://www.edriessen.com/2023/04/24/an-introduction-to-scrollytelling-data-storytelling-using-scrollama-js-d3-js-and-html-css/" target="_blank">Introduction to Scrollytelling</a> by edriessen</li>
+                        <li><a href="https://www.youtube.com/watch?v=fYQGgaE_b4I" target="_blank">SO YOU THINK YOU CAN SCROLL Jim Vallandingham</a> by BocoupLLC</li>
+                        <li><a href="https://vallandingham.me/scroller.html" target="_blank">So You Want to Build A Scroller</a> by Jim Vallandingham</li>
+                        <li><a href="https://info474-s17.github.io/book/scrolling.html" target="_blank">Scrolling with D3.js</a> by Michael Freeman</li>
+                        <li><a href="https://pudding.cool/process/introducing-scrollama/" target="_blank">Introducing Scrollama</a> by The Pudding</li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
+                <details id="a5-1">
+                    <summary><h2>Exercise: 5.1 SVG Drawing</h2></summary>
+                    <p>Use SVG shapes, elements, and functions to draw a poster, pattern, or collage you like. You are allowed to:</p>
+                    <ul>
+                        <li>Write SVG elements directly in HTML</li>
+                        <li>Use functions from D3.js to append your SVG elements</li>
+                        <li>Play around with SVG filters</li>
+                        <li>Experiment with simple data</li>
+                        <li>Add CSS animation or transition</li>
+                        <li>Include other HTML elements in the SVG or site</li>
+                    </ul>
+                    <p>Upload your SVG drawing to GitHub Pages and submit the link to Canvas.</p>
+    
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/foreignObject" target="_blank">MDN: foreignObject</a></li>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/image" target="_blank">MDN: image</a></li>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Patterns" target="_blank">MDN: Patterns</a></li>
+                        <li><a href="https://www.sarasoueidan.com/blog/css-svg-clipping/" target="_blank">Clipping in CSS and SVG</a> by Sara Soueidan</li>
+                        <li><a href="https://tympanus.net/codrops/2019/01/15/svg-filters-101/" target="_blank">SVG Filters 101</a> by Codrops</li>
+                        <li><a href="https://yoksel.github.io/svg-filters/#/" target="_blank">SVG Filters</a></li>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Filter_effects" target="_blank">MDN: Filter Effects</a></li>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Element/feTurbulence" target="_blank">MDN: feTurbulence</a></li>
+                        <li><a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts" target="_blank">MDN: Texts</a></li>
+                        <li><a href="https://www.nan.fyi/svg-paths" target="_blank">Understanding SVG Paths</a> by NaN</li>
+                        <li><a href="https://codepen.io/kitasenjudesign/pen/NWzvLpV" target="_blank">svg filter 2</a> by KitasenjuDesign</li>
+                        <li><a href="https://codepen.io/Valgo/pen/PowZaNY" target="_blank">Text Morph</a> by Valgo</li>
+                        <li><a href="https://codepen.io/ZachSaucier/pen/gZzPgQ" target="_blank">Animated blob SVG text clipping effect - Pt. 6</a> by Zach Saucier</li>
+                        <li><a href="https://www.youtube.com/watch?v=gWai7fYp9PY" target="_blank">Learn To Build An SVG Animation With CSS</a> by developedbyed</li>
+                        <li><a href="https://observablehq.com/@kevinfjbecker/d3-flower" target="_blank">D3 Flower</a> by Kevin Becker</li>
+                        <li><a href="https://dev.to/liaowow/when-art-meets-data-flowers-as-visual-metaphor-1ekl" target="_blank">When Art Meets Data: Flowers as Visual Metaphor</a> by Annie Liao</li>
+                        <li><a href="https://dev.to/jessesbyers/create-custom-forecast-flower-icons-with-d3-jg6" target="_blank">Create Custom Forecast Flower Icons with D3</a> by Jesse Smith Byers</li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
+                <details id="a4-2">
+                    <summary><h2>Website: 4.2 Interactive Website</h2></summary>
+                    <p>submit a github page link to Canvas</p>
+                    <h3>Option 1</h3>
+                    <p>create a website/web-based poster that involves movements or a sequence of animations.</p>
+                    <h3>Option 2</h3>
+                    <p>create an interactive website where users can manipulate the DOM through interactions. this could be clicking to add new elements or change their behavior, scrolling to append or reveal content, or dragging and dropping elements.</p>
+                    <h3>Resources</h3>
+                    <ul>
+                        <li><a href="https://gsap.com/docs/v3/Plugins/Draggable/" target="_blank">Draggable | GSAP | Docs & Learning</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=8yKRl-w1wfo" target="_blank">Easy SVG Drag and Drop with GreenSock's Draggable</a> by GreenSockLearning</li>
+                        <li><a href="https://www.youtube.com/watch?v=X7IBa7vZjmo" target="_blank">Introducing ScrollTrigger for GSAP</a> by GreenSockLearning</li>
+                        <li><a href="https://www.youtube.com/watch?v=fce5B2DicN0" target="_blank">Tiny SplitText tutorial</a> by GreenSockLearning</li>
+                        <li><a href="https://gsap.com/docs/v3/Plugins/SplitText/" target="_blank">SplitText | GSAP | Docs & Learning</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=tCNz6dSZXpk" target="_blank">Split text animation using HTML CSS | GSAP 3 animation | Frontend Design | 2020</a> by I Make Design Easy</li>
+                        <li><a href="https://gsap.com/docs/v3/Plugins/MotionPathPlugin/" target="_blank">MotionPath | GSAP | Docs & Learning</a></li>
+                        <li><a href="https://www.youtube.com/watch?v=G9207EJySaA" target="_blank">If Pixar Made Programming Tutorials</a> by Hyperplexed</li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
+                <details id="a4-1">
+                    <summary><h2>Exercise: 4.1 Dynamic Web Page</h2></summary>
+                    <p>Choose one or more event listeners, create an element/interface/website where interactions are involved to change how an element/website appears or behaves. Upload the site to github pages, submit the link to Canvas.</p>
+                    <h3>examples/inspo</h3>
+                    <ul>
+                        <li><a href="https://codepen.io/alekzandriia/pen/bGMxvPR" target="_blank">💡Light Switch 💡</a> by Alekzandriia</li>
+                        <li><a href="https://codepen.io/garrettbear/pen/JzMmqg" target="_blank">CVS Receipt</a> by Garrett Bear</li>
+                        <li><a href="https://codepen.io/abxlfazl/pen/YzGEVRP" target="_blank">music player widget</a> by abxlfazl khxrshidi</li>
+                        <li><a href="https://codepen.io/singhimalaya/pen/QZKqOX" target="_blank">Music Player | Audio Player 🎵</a> by Himalaya Singh</li>
+                        <li><a href="https://codepen.io/kathykato/pen/EzXZvN" target="_blank">Face Button</a> by Katherine Kato</li>
+                        <li><a href="https://codepen.io/GeorgePark/pen/WgGmPq" target="_blank">Emoji Scratch Card</a> by George W. Park</li>
+                        <li><a href="https://codepen.io/Kalever/pen/pNrKKY" target="_blank">Rotating Logo on Scroll</a> by TK</li>
+                        <li><a href="https://codepen.io/nosurprisethere/pen/xrXjYV" target="_blank">Before After Image Slider (Vanilla)</a> by Huw Llewellyn</li>
+                        <li><a href="https://codepen.io/enbee81/pen/yLyrmyg" target="_blank">Diagonal Layouts in 2020</a> by Nils Binder</li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
                 <details id="a3-4">
                     <summary><h2>Exercise: 3.4 JavaScript debugger and Documentation</h2></summary>
                     <p>submit as a writeup on Canvas</p>
