@@ -30,13 +30,13 @@
                     <li>JavaScript: updating elements in D3.js</li>
                     <li>JavaScript: D3 scale, axis, margin</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a5-2">5.2 Data Visualization</NuxtLink> due 10/09</p>
+                <p><NuxtLink to="/assignments#a5-2">Assignment 5.2 Data Visualization</NuxtLink> due 10/09</p>
                 <h4>Monday, October 07</h4>
                 <ul>
                     <li>Data visualization on the web</li>
                     <li>JavaScript: intro to D3.js</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a5-1">5.1 SVG Drawing</NuxtLink> due 10/14</p>
+                <p><NuxtLink to="/assignments#a5-1">Assignment 5.1 SVG Drawing</NuxtLink> due 10/14</p>
             </details>
             <hr>
             <details class="week">
@@ -45,13 +45,13 @@
                 <ul>
                     <li>JavaScript: animating with GSAP</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a4-2">4.2 Interactive Website</NuxtLink> due 10/09</p>
+                <p><NuxtLink to="/assignments#a4-2">Assignment 4.2 Interactive Website</NuxtLink> due 10/09</p>
                 <h4>Monday, September 30</h4>
                 <ul>
                     <li>JavaScript: event listeners</li>
                     <li>Exercise: <code>mousemove</code>, <code>input</code></li>
                 </ul>
-                <p><NuxtLink to="/assignments#a4-1">4.1 Dynamic Web Page</NuxtLink> due 10/07</p>
+                <p><NuxtLink to="/assignments#a4-1">Assignment 4.1 Dynamic Web Page</NuxtLink> due 10/07</p>
             </details>
             <hr>
             <details class="week">
@@ -61,13 +61,13 @@
                     <li>JavaScript: breakpoints and debugger</li>
                     <li>Documentation: markdown(.md) files</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-4">3.4 Debugger and Documentation</NuxtLink> due 09/30</p>
+                <p><NuxtLink to="/assignments#a3-4">Assignment 3.4 Debugger and Documentation</NuxtLink> due 09/30</p>
                 <h4>Monday, September 23</h4>
                 <ul>
                     <li>JavaScript: JavaScript Runtime</li>
                     <li>JavaScript: Object-Oriented Programming</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-3">3.3 JavaScript Class and Object</NuxtLink> due 09/25</p>
+                <p><NuxtLink to="/assignments#a3-3">Assignment 3.3 JavaScript Class and Object</NuxtLink> due 09/25</p>
             </details>
             <hr>
             <details class="week">
@@ -77,13 +77,13 @@
                     <li>Git, Github, and Version Controls</li>
                     <li>Workshop: working with Git</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-2">3.2 Open Source and Contribution</NuxtLink> due 09/23</p>
+                <p><NuxtLink to="/assignments#a3-2">Assignment 3.2 Open Source and Contribution</NuxtLink> due 09/23</p>
                 <h4>Monday, September 16</h4>
                 <ul>
                     <li>Command Line Interface (CLI)</li>
                     <li>JavaScript: Data Types and JSON</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a3-1">3.1 File-Made Structure</NuxtLink> due 09/18</p>
+                <p><NuxtLink to="/assignments#a3-1">Assignment 3.1 File-Made Structure</NuxtLink> due 09/18</p>
             </details>
             <hr>
             <details class="week">
@@ -102,7 +102,7 @@
                     <li>CSS: position</li>
                     <li>CSS: transition and animation</li>
                 </ul>
-                <p><NuxtLink to="/assignments#a2-2">2.2 Static Website</NuxtLink> due 09/16</p>
+                <p><NuxtLink to="/assignments#a2-2">Assignment 2.2 Static Website</NuxtLink> due 09/16</p>
             </details>
             <hr>
             <details class="week">
