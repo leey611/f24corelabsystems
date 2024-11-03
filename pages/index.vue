@@ -24,6 +24,52 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 10</summary>
+                <h4>Wednesday, October 30</h4>
+                <ul>
+                    <li>General Node development tips</li>
+                    <li>Work session</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a7-2">Assignment 7.2 Develop a Web Service</NuxtLink> due 11/04</p>
+                <h4>Monday, October 28</h4>
+                <ul>
+                    <li>Setting up a Node development environment</li>
+                    <li>Creating and running an Express-based web service</li>
+                    <li>Publishing a Node-based web service with Render</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a7-1">Assignment 7.1 Web Service</NuxtLink> due 10/30</p>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 9</summary>
+                <h4>Wednesday, October 23</h4>
+                <ul>
+                    <li>React.js: API + useEffect</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a6-1">Assignment 6.1 React Webiste</NuxtLink> due 10/30</p>
+                <h4>Monday, October 21</h4>
+                <ul>
+                    <li>React.js: useState</li>
+                    <li>React.js: Deployment on Github Pages</li>
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 8</summary>
+                <h4>Wednesday, October 16</h4>
+                <ul>
+                    <li>Component Driven Development</li>
+                    <li>Intro to React</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a6-1">Assignment 6.1 React Webiste</NuxtLink> due 10/30</p>
+                <h4>Monday, October 14</h4>
+                <ul>
+                    <li>D3.js: loading data</li>
+                    <li>D3.js: transition and interaction</li>
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 7</summary>
                 <h4>Wednesday, October 09</h4>
                 <ul>

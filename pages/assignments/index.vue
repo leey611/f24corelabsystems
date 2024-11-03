@@ -5,6 +5,83 @@
         <hr>
         <ul>
             <li>
+                <details id="a7-2">
+                    <summary><h2>7.2 Develop a Web Service</h2></summary>
+                    <p>Build a web service using Node.js and Express that responds with different outputs based on the request data. Submit the link to your repo that includes the following to Canvas.</p>
+                    <h3>Requirements</h3>
+                    <ul>
+                        <li>Make your source code available on your GitHub repo.</li>
+                        <li>Include a <code>.gitignore</code> file that includes <code>/node_modules</code> in your project (this will ensure you don't push your <code>node_modules</code> to your repo).</li>
+                        <li>Write a <code>README.md</code> that includes your deployed web service URL, required queries or parameters, and a sample request and response.</li>
+                        <li>Deploy your web service to <a href="https://render.com/" target="_blank" rel="noopener noreferrer">Render</a> using the free plan.</li>
+                        <li>Accept at least two route parameters (e.g., <code>/courses/:department/:level</code>) or query strings (e.g., <code>/clothing?category=top&color=black</code>) in your web service.</li>
+                    </ul>
+
+                    <h3>Tips</h3>
+                    <p>When developing your web service, consider the following:</p>
+                    <ul>
+                        <li>What if users forget to provide parameters or queries in the request URL? (Use conditional statements to check in your web service!)</li>
+                        <li>How can you structure a friendly default response or error message?</li>
+                        <li>Use <code>console.log</code> to debug and read the request data.</li>
+                    </ul>
+                    <h2>Resources</h2>
+                    <ul>
+                        <li><a href="https://www.youtube.com/watch?v=wM3TEvQn2hw" target="_blank" rel="noopener noreferrer">How to Set Up a Node.js Project</a> by The Coding Train</li>
+                        <li><a href="https://www.youtube.com/watch?v=CnH3kAXSrmU" target="_blank" rel="noopener noreferrer">Express Crash Course</a> by Traversy Media</li>
+                        <li><a href="https://developer.nytimes.com/docs/movie-reviews-api/1/overview" target="_blank" rel="noopener noreferrer">New York Times Movie Reviews API documentation</a></li>
+                        <li><a href="https://jsonplaceholder.typicode.com/" target="_blank" rel="noopener noreferrer">JSONPlaceholder documentation</a></li>
+                        <li><a href="https://metmuseum.github.io/" target="_blank" rel="noopener noreferrer">The Metropolitan Museum of Art Collection API documentation</a></li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
+                <details id="a7-1">
+                    <summary><h2>Exercise: 7.1 Web Service</h2></summary>
+                    <p>Modify the web service we went through today by designing your own endpoints and responses with query parameters or route parameters. Submit your documentation that includes your code and the following on Canvas.</p>
+
+                    <h3>Design Your Own Endpoints</h3>
+                    <ul>
+                        <li><strong>Example of Route Parameter:</strong> An endpoint that accepts a parameter in the URL (e.g., <code>/item/:id</code>).</li>
+                        <li><strong>Example of Query Parameter:</strong> An endpoint that accepts optional query parameters (e.g., <code>/items?category=fruits</code>).</li>
+                    </ul>
+
+                    <h3>Define the Responses</h3>
+                    <ul>
+                        <li><strong>Data to Return:</strong> This could be a simple message, a JSON object, or data from an array.</li>
+                        <li><strong>Handling Unexpected or Different Scenarios:</strong> For example, a message to send if the requested resource doesn’t exist, or if no query parameter is provided.</li>
+                    </ul>
+
+                    <h3>Documentation</h3>
+                    <ul>
+                        <li>Description of your designed endpoints and responses and how to interact with your web service</li>
+                        <li>Screenshots of your code, output from the browser, your commands, and output in the terminal</li>
+                    </ul>
+                </details>
+            </li>
+            <hr>
+            <li>
+                <details id="a6-1">
+                    <summary><h2>Website: 6.1 React Website</h2></summary>
+                    <p>make a website with React.js. you can take inspiration from any websites you have made before. you are encouraged to:</p>
+                    <ul>
+                        <li>play around with other React libraries, such as <a href="https://r3f.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noopener noreferrer">react-three-fiber</a>, <a href="https://gsap.com/resources/React/" target="_blank" rel="noopener noreferrer">gsap/react</a>, or <a href="https://www.framer.com/motion/" target="_blank" rel="noopener noreferrer">framer-motion</a>.</li>
+                        <li>use a dataset or a public API (public APIs ensure successful requests after deployment).</li>
+                        <li>add interactivity, such as manipulating an array of objects that shows on the site.</li>
+                    </ul>
+                    <h3>Requirements</h3>
+                        <ul>
+                            <li>Have at least 2 components</li>
+                            <li>Use reusable components with props</li>
+                            <li>Style your component with inline CSS or CSS files</li>
+                            <li>Render a list of components using <code>.map()</code></li>
+                            <li>Deploy your site to GitHub Pages, Netlify, Vercel, etc.</li>
+                        </ul>
+                        <p>Submit the website URL or link to your GitHub Pages on Canvas</p>
+                </details>
+            </li>
+            <hr>
+            <li>
                 <details id="a5-2">
                     <summary><h2>Website: 5.2 Data Visualization</h2></summary>
                     <p>Create a data visualization website with D3.js, HTML, CSS, and JavaScript. You are encouraged to:</p>
