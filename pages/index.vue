@@ -24,6 +24,85 @@
         <hr>
         <section class="weekly_outline">
             <details class="week">
+                <summary>Week 16</summary>
+                <h4>Wednesday, December 11</h4>
+                <ul>
+                    <li>Final presentation</li>
+                </ul>
+                <h4>Monday, December 09</h4>
+                <ul>
+                    <li>Final presentation</li>   
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 15</summary>
+                <h4>Wednesday, December 04</h4>
+                <ul>
+                    <li>Working session</li>
+                </ul>
+                <h4>Monday, December 02</h4>
+                <ul>
+                    <li>Working session</li>   
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 14</summary>
+                <h4>Wednesday, November 27</h4>
+                <ul>
+                    <li>Working session</li>
+                </ul>
+                <h4>Monday, November 25</h4>
+                <ul>
+                    <li>Real-time interaction</li>
+                    <li>Workshop: Socket.io</li>   
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 13</summary>
+                <h4>Wednesday, November 20</h4>
+                <ul>
+                    <li>Working session</li>
+                </ul>
+                <h4>Monday, November 18</h4>
+                <ul>
+                    <li>1-on-1s</li>   
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 12</summary>
+                <h4>Wednesday, November 13</h4>
+                <ul>
+                    <li>Testing API with Postman</li>
+                    <li>1-on-1s sign up for 11/18</li>
+                </ul>
+                <h4>Monday, November 11</h4>
+                <ul>
+                    <li>What is RESTful API?</li>
+                    <li>REST Workshop: GET, POST, PUT, DELETE</li>
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
+                <summary>Week 11</summary>
+                <h4>Wednesday, November 06</h4>
+                <ul>
+                    <li>What is CORS?</li>
+                    <li>Node.js: using APIs</li>
+                </ul>
+                <p><NuxtLink to="/assignments#a8-1">Assignment 8.1 API + Website</NuxtLink> due 11/20</p>
+                <h4>Monday, November 04</h4>
+                <ul>
+                    <li>Node.js: adding external Node packages</li>
+                    <li>Node.js: fetching data</li>
+                    <li>Node.js: using an API key with <code>.env</code></li>
+                </ul>
+            </details>
+            <hr>
+            <details class="week">
                 <summary>Week 10</summary>
                 <h4>Wednesday, October 30</h4>
                 <ul>

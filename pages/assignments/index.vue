@@ -5,6 +5,39 @@
         <hr>
         <ul>
             <li>
+                <details id="a8-1">
+                    <summary><h2>8.1 Website: API + Website</h2></summary>
+                    <p>Develop a Node/Express API, and build a website that uses this API.</p>
+                    <h3>Part 1: API</h3>
+                    <p>Build an API using Node and Express. You are allowed to use or expand the web service you developed in assignment 7.2. If you are satisfied with the API, feel free to jump into Part 2 to start building a website using the API you made.</p>
+                    <p>Note that you must allow CORS so your website won't encounter CORS errors when making requests.</p>
+
+                    <h3>Part 2: Interactive Website</h3>
+                    <p>Create an interactive website where users can make requests to your API based on their interactions. For example, clicking a search button to retrieve a movie info based on a search key word.</p>
+                    
+                    <h3>Requirements</h3>
+                    <ul>
+                        <li>Both the source code of API and website need to be on Github and include a README in each repository</li>
+                        <li>Your API's README should include the website URL, API URL, how to request, a sample request, or any required info to use the API, such as running the API locally or applying for an environment variable</li>
+                        <li>Your website's README should include the features, tech stack, and basic info of the API used in the site</li>
+                    </ul>
+                    <p>Submit the URL to either your API or website's Github repo on Canvas.</p>
+                    <h3>Note: Solving CORS errors</h3>
+                    <ol>
+        <li>Use <code>npm install cors</code> in your node service</li>
+        <li>In your <code>index.js</code> file add <code>import cors from 'cors'</code>, then add</li>
+
+            <pre>
+app.use(cors({
+    origin: '*'
+})); </pre>
+
+        <li>Push your changes to Github/Render</li>
+    </ol>
+                </details>
+            </li>
+            <hr>
+            <li>
                 <details id="a7-2">
                     <summary><h2>7.2 Develop a Web Service</h2></summary>
                     <p>Build a web service using Node.js and Express that responds with different outputs based on the request data. Submit the link to your repo that includes the following to Canvas.</p>
@@ -386,15 +419,26 @@ details ul {
     @apply ps-5 my-4 marker:text-violet-300 list-disc;
 }
 
+ol {
+    @apply ps-5 list-decimal;
+}
+
 li > p {
     @apply mb-4;
 }
 
 pre {
     @apply p-4 rounded bg-violet-200;
-    white-space: pre-wrap;  /* Allows text to wrap */
-    word-wrap: break-word;  /* Breaks long words to prevent overflow */
-    overflow-wrap: break-word; /* Ensures that long words will break */
+    /* Allows text to wrap */
+    /* white-space: pre-wrap;   */
+    /* Breaks long words to prevent overflow */
+    /* word-wrap: break-word;   */
+    /* Ensures that long words will break */
+    /* overflow-wrap: break-word;  */
+    white-space: pre; /* Prevents text wrapping for long lines */
+    word-wrap: normal; /* Ensures words don’t wrap */
+    overflow-wrap: normal; /* Prevents word breaks */
+    overflow-x: auto; /* Enables horizontal scrolling */
     max-width: 100%; /* Prevents the pre element from exceeding its container */
 }
 
